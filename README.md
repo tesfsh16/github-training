@@ -1,2 +1,3 @@
 this is the readme file
-and the next is good thing 
+second line  is good thing 
+this is line three
